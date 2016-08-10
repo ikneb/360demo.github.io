@@ -1,0 +1,4 @@
+*.sw[ponm]
+build/
+gh-pages/
+node_modules/
